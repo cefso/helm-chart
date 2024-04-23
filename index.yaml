@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-23T23:07:31.6679674+08:00"
+    description: A Helm chart for Kubernetes
+    digest: de164a8da72f8f6c84ae87cc5531bf544a7e4cd6471e7fb9d2872a4c69d62a09
+    name: test
+    type: application
+    urls:
+    - https://cefso.github.io/helm-chart/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-23T23:07:31.6668921+08:00"
