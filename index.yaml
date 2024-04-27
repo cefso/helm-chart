@@ -3,9 +3,9 @@ entries:
   alertmanager-dingtalk-hook:
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2024-04-27T23:50:46.9539521+08:00"
+    created: "2024-04-28T00:20:02.3535048+08:00"
     description: A Helm chart for Kubernetes
-    digest: 6f4ac65986eb66012200f5f21e3c7c81e17e41800904bd745daaf22cedc7a134
+    digest: 14924eea4f89074d8d7042b7c2d5200e640979e3f6679652f15d7ef93971c368
     name: alertmanager-dingtalk-hook
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-04-27T23:50:46.9539521+08:00"
+    created: "2024-04-28T00:20:02.3535048+08:00"
     description: A Helm chart for Kubernetes
     digest: af1b0eac3077a590e20731750143b9c7e389a9c7bd10221450339584bf963ea0
     name: alertmanager-dingtalk-hook
@@ -24,7 +24,7 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-27T23:50:46.9545123+08:00"
+    created: "2024-04-28T00:20:02.3540769+08:00"
     description: A Helm chart for Kubernetes
     digest: de164a8da72f8f6c84ae87cc5531bf544a7e4cd6471e7fb9d2872a4c69d62a09
     name: test
@@ -32,4 +32,4 @@ entries:
     urls:
     - test-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-27T23:50:46.9533922+08:00"
+generated: "2024-04-28T00:20:02.3529063+08:00"
